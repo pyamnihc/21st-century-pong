@@ -1,5 +1,3 @@
-// Copyright [2015] <Chafic Najjar>
-
 #ifndef SRC_UTILITIES_H_
 #define SRC_UTILITIES_H_
 

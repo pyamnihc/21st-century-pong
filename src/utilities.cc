@@ -1,5 +1,3 @@
-// Copyright [2015] <Chafic Najjar>
-
 #include "src/utilities.h"
 
 #include <SDL2/SDL.h>
